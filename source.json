@@ -13,7 +13,7 @@
       "tintColor": "5C7A5C",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "1.0.0",
+      "version": "1.0",
       "versionDate": "2026-06-22",
       "versionDescription": "Initial sideload build.",
       "downloadURL": "https://github.com/Criden1337/madplan-altstore/releases/download/v1.0.0/Madplan.ipa",
@@ -21,7 +21,7 @@
       "minOSVersion": "26.5",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "date": "2026-06-22",
           "localizedDescription": "Initial sideload build.",
           "downloadURL": "https://github.com/Criden1337/madplan-altstore/releases/download/v1.0.0/Madplan.ipa",
