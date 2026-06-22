@@ -1,0 +1,34 @@
+{
+  "name": "Christian's Madplan",
+  "identifier": "dk.criden.madplan.altstore",
+  "sourceURL": "https://raw.githubusercontent.com/Criden1337/madplan-altstore/main/source.json",
+  "apps": [
+    {
+      "name": "Madplan",
+      "bundleIdentifier": "dk.criden.Madplan",
+      "developerName": "Christian Pedersen",
+      "subtitle": "Ugentlig madplan og indkøb",
+      "localizedDescription": "Madplan – planlæg ugens måltider og generér indkøbslisten. Native iOS-klient til food-planner.",
+      "iconURL": "https://raw.githubusercontent.com/Criden1337/madplan-altstore/main/icon.png",
+      "tintColor": "5C7A5C",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "version": "1.0.0",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Initial sideload build.",
+      "downloadURL": "https://github.com/Criden1337/madplan-altstore/releases/download/v1.0.0/Madplan.ipa",
+      "size": 1123590,
+      "minOSVersion": "26.5",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-06-22",
+          "localizedDescription": "Initial sideload build.",
+          "downloadURL": "https://github.com/Criden1337/madplan-altstore/releases/download/v1.0.0/Madplan.ipa",
+          "size": 1123590,
+          "minOSVersion": "26.5"
+        }
+      ]
+    }
+  ]
+}
